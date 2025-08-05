@@ -1,13 +1,18 @@
-<h1 align="center">Hi , I'm Rodrigo </h1>
+<h2 align="center" style="color:#00FFCC;">I'm Rodrigo</h1>
+
+
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Web%20Developer;Systems%20Engineering%20Student;Focused%20on%20Security%20and%20Clean%20Architecture;Always%20learning...&font=Fira%20Code&center=true&width=500&height=45&color=00FFCC&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rodepx&label=Profile%20views" alt="rodepx" />
 </p>
 
-<h3 align="center">Web developer & Systems Engineering student</h3>
-
-
-
--  Currently learning **Web Security, DevOps, and Clean Architecture**
 
 ---
 
