@@ -33,3 +33,8 @@
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=rodepx&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="rodepx's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rodepx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
